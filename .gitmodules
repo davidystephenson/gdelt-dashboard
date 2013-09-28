@@ -1,0 +1,3 @@
+[submodule "gdelt_download"]
+	path = gdelt_download
+	url = https://github.com/johnb30/gdelt_download.git
